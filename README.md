@@ -9,7 +9,7 @@ TODO : Please provide a detailed project description.
 
 ## Web Site
 
-[Seth's Website](https://huisefuhao.herokuapp.com/)
+[Seth's Website](https://secure-dawn-48368.herokuapp.com/)
 
 ## Key Features
 
