@@ -4,12 +4,12 @@ TODO : Please provide a detailed project description.
 
 ## Build status
 
-TODO : Modify to match your project specific Travis Build
-[![Build Status](https://travis-ci.org/infsci2560sp17/full-stack-web-stg34pitt)](https://travis-ci.org/infsci2560sp17/full-stack-web-stg34pitt)
+
+[![Build Status](https://travis-ci.org/infsci2560sp17/full-stack-web-stg34pitt.svg?branch=master)](https://travis-ci.org/infsci2560sp17/full-stack-web-stg34pitt)
 
 ## Web Site
 
-![](https://secure-dawn-48368.herokuapp.com/)
+[Seth's Website](https://huisefuhao.herokuapp.com/)
 
 ## Key Features
 
