@@ -1,6 +1,15 @@
-# TODO : Your Project Name
+Panther Fuel
 
-TODO : Please provide a detailed project description.
+What is the proposed name for your Web application?
+Panther Fuel
+Who is the target audience for your Web application?
+Student Athletes and coaches who are looking for better ways to find healthy food options.
+What problem is it intended to solve for the target audience?
+Student-Athletes have very busy schedules and struggle to find healthy food options eating out or healthy meals that they can prepare for the week. Pitt Athletics' Nurtritionist provides meal suggestions at restaurants, healthy recipes that the athletes can make and just general information on how to form their diet around their bust lifestyle. The website will allow them to create shopping carts based off of recipes the athletes choose so they can easily track what ingredients they need to buy. The website will also house restaurants in the area as well as common travel locations around the rest of the ACC. They will then be able to load recommended meal choices from these restaurants to better improve their diets.
+How will it meet the minimum project requirements?
+My site will be restricted to users with @pitt.edu email accounts only because its intended audience is Pitt's student-athletes. Once the user is logged in they will have access to all of the available content that has been provided by the nurtitionist. The nutritionist will have an admin panel to which he/she can login to update information and send new things to the website. All data will be accessed using RESTful services.
+Why is your proposed Web application unique or creative beyond simply meeting the minimum requirements?
+My application will have a real-world use. I work in Atheltics and our nutritionist has been looking to work on something like this and believes it was be very beneficial to Pitt's hundreds of student-athletes. It is a platform for her to make sure the student-athletes have access to every available resource to perform at the highest level.
 
 ## Build status
 
